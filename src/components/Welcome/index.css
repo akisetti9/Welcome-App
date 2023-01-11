@@ -1,0 +1,32 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+.container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  width: 100vw;
+  height: 100vh;
+  padding: 36px;
+  font-size: xx-large;
+  text-align: center;
+}
+h1 {
+  color: #f0bb03;
+}
+.btn-elem {
+  background-color: #ffffff;
+  color: #1e293b;
+  padding: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: medium;
+  font-weight: 700;
+  cursor: pointer;
+}
